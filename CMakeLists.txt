@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(MuDis VERSION 0.1.0 LANGUAGES C CXX)
+project(tinyKV VERSION 0.1.0 LANGUAGES C CXX)
 
 include(CTest)
 enable_testing()

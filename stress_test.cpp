@@ -7,6 +7,7 @@
 #include <time.h>
 #include <fstream>
 #include "skiplist.h"
+// 压力测试写入文件，如要测试，请注释掉 skiplist.h 中输出到终端的代码，标准输出会非常消耗资源，为了测试准确，请注释！！
 #define STORE_FILE_STRESS_TSET "test_result"
 
 #define NUM_THREADS 1
