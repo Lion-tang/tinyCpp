@@ -4,6 +4,6 @@
 
 *1*：[tinyKV](tinyKV/README.md)
 
-*2*：[intelligentPointer](intelliPointer/README.md)
+*2*：[smartPointer](smartPointer/README.md)
 
 > note: project is configured by CMake
