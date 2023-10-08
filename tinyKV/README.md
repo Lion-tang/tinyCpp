@@ -6,7 +6,7 @@
 
 基于 **<font color = F88F00>跳表</font>** 实现的 KV 存储引擎，使用 C++ 实现。在随机读写情况下，该项目每秒可处理请求数（QPS）：24.39 W，每秒可处理读请求数：18.41 W。（项目作者说明，但笔者测试不相同）
 
-**提供接口** ：
+**提供[接口](detail_design.md)** ：
 
 :small_blue_diamond: put_element  插入/修改数据
 
@@ -20,7 +20,7 @@
 
 :small_blue_diamond: clear  清空跳表 （笔者添加）
 
-详细设计参看：[详细设计](detail_design.md)
+
 ----
 
 ## 2 项目测试
