@@ -4,4 +4,6 @@
 
 *1*：[tinyKV](tinyKV/README.md)
 
-*1*：[Skiplist-CPP: A tiny KV storage based on skiplist written in C++ language ](https://github.com/youngyangyang04/Skiplist-CPP)
+*2*：[intelligentPointer](intelliPointer/README.md)
+
+> note: project is configured by CMake
